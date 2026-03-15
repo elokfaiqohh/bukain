@@ -1,0 +1,9 @@
+# Node / React default ignores
+node_modules/
+dist/
+build/
+
+# Environment variables
+.env
+.env.production
+.env.local
