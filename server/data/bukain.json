@@ -1,0 +1,892 @@
+{
+  "orders": [
+    {
+      "id": "caa9ad2d-9f89-4b3b-b194-f01a7c17f93d",
+      "code": "BK430614",
+      "order_code": "BK430614",
+      "packageId": null,
+      "package_name": "Ayam Geprek Mantap Family Bundle",
+      "packageName": "Ayam Geprek Mantap Family Bundle",
+      "items": [],
+      "price": 33000,
+      "total_price": 33000,
+      "restaurantId": "ayam-geprek-mantap",
+      "restaurant_id": "ayam-geprek-mantap",
+      "restaurantName": "Ayam Geprek Mantap",
+      "customerId": "u-customer",
+      "customer_id": "u-customer",
+      "customerName": "Customer User",
+      "pickupTime": "20:45",
+      "pickup_time": "20:45",
+      "notes": "",
+      "status": "cancelled",
+      "createdAt": "2026-03-14T02:39:21.451Z",
+      "created_at": "2026-03-14T02:39:21.451Z",
+      "updatedAt": "2026-03-14T02:39:40.823Z"
+    },
+    {
+      "id": "43fa7ff8-ef49-4e30-a8b4-845681405463",
+      "code": "BK204157",
+      "order_code": "BK204157",
+      "packageId": null,
+      "package_name": "Warung Barokah Mini Feast",
+      "packageName": "Warung Barokah Mini Feast",
+      "items": [],
+      "price": 44000,
+      "total_price": 44000,
+      "restaurantId": "warung-barokah",
+      "restaurant_id": "warung-barokah",
+      "restaurantName": "Warung Barokah",
+      "customerId": "u-customer",
+      "customer_id": "u-customer",
+      "customerName": "Customer User",
+      "pickupTime": "23:45",
+      "pickup_time": "23:45",
+      "notes": "",
+      "status": "preparing",
+      "createdAt": "2026-03-14T03:19:38.341Z",
+      "created_at": "2026-03-14T03:19:38.341Z",
+      "updatedAt": "2026-03-15T11:44:23.007Z"
+    },
+    {
+      "id": "45b00bf4-5fdd-41ca-824a-e87790666eb6",
+      "code": "BK162946",
+      "order_code": "BK162946",
+      "packageId": null,
+      "package_name": "Kedai Ramadan Iftar Special",
+      "packageName": "Kedai Ramadan Iftar Special",
+      "items": [],
+      "price": 43000,
+      "total_price": 43000,
+      "restaurantId": "kedai-ramadan",
+      "restaurant_id": "kedai-ramadan",
+      "restaurantName": "Kedai Ramadan",
+      "customerId": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customer_id": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customerName": "Elok Faiqoh",
+      "pickupTime": "17:45",
+      "pickup_time": "17:45",
+      "notes": "",
+      "status": "preparing",
+      "createdAt": "2026-03-14T03:26:19.184Z",
+      "created_at": "2026-03-14T03:26:19.184Z",
+      "updatedAt": "2026-03-14T03:26:59.411Z"
+    },
+    {
+      "id": "9cc3a3ca-265b-4290-8648-1d07261867dc",
+      "code": "BK941653",
+      "order_code": "BK941653",
+      "packageId": null,
+      "package_name": "Martabak Alim Selection",
+      "packageName": "Martabak Alim Selection",
+      "items": [],
+      "price": 20000,
+      "total_price": 20000,
+      "restaurantId": "martabak-alim",
+      "restaurant_id": "martabak-alim",
+      "restaurantName": "Martabak Alim",
+      "customerId": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customer_id": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customerName": "Elok Faiqoh",
+      "pickupTime": "17:45",
+      "pickup_time": "17:45",
+      "notes": "",
+      "status": "pending",
+      "createdAt": "2026-03-14T06:36:46.081Z",
+      "created_at": "2026-03-14T06:36:46.081Z",
+      "updatedAt": "2026-03-14T06:36:46.081Z"
+    },
+    {
+      "id": "b651e41a-12b8-4e09-83d4-2ab251b86d6b",
+      "code": "BK984628",
+      "order_code": "BK984628",
+      "packageId": null,
+      "package_name": "Ayam Geprek Bakar",
+      "packageName": "Ayam Geprek Bakar",
+      "items": [],
+      "price": 26000,
+      "total_price": 26000,
+      "restaurantId": "ayam-geprek-mantap",
+      "restaurant_id": "ayam-geprek-mantap",
+      "restaurantName": "Ayam Geprek Mantap",
+      "customerId": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customer_id": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customerName": "Elok Faiqoh",
+      "pickupTime": "17:45",
+      "pickup_time": "17:45",
+      "notes": "",
+      "status": "paid",
+      "createdAt": "2026-03-14T07:53:07.796Z",
+      "created_at": "2026-03-14T07:53:07.796Z",
+      "updatedAt": "2026-03-14T07:53:07.841Z"
+    },
+    {
+      "id": "950d08ec-b2b1-454a-ad40-7cd2aed877b1",
+      "code": "BK934633",
+      "order_code": "BK934633",
+      "packageId": null,
+      "package_name": "Mie Pedas Gacoan Selection",
+      "packageName": "Mie Pedas Gacoan Selection",
+      "items": [],
+      "price": 40000,
+      "total_price": 40000,
+      "restaurantId": "gacoan-pedas",
+      "restaurant_id": "gacoan-pedas",
+      "restaurantName": "Mie Pedas Gacoan",
+      "customerId": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customer_id": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customerName": "Elok Faiqoh",
+      "pickupTime": "17:45",
+      "pickup_time": "17:45",
+      "notes": "",
+      "status": "ready",
+      "createdAt": "2026-03-14T07:56:36.606Z",
+      "created_at": "2026-03-14T07:56:36.606Z",
+      "updatedAt": "2026-03-15T03:40:55.359Z"
+    },
+    {
+      "id": "4870003c-d8b3-4166-8030-b5dc57edc7a6",
+      "code": "BK462562",
+      "order_code": "BK462562",
+      "packageId": null,
+      "package_name": "Tahu Isi",
+      "packageName": "Tahu Isi",
+      "items": [],
+      "price": 8000,
+      "total_price": 8000,
+      "restaurantId": "warung-barokah",
+      "restaurant_id": "warung-barokah",
+      "restaurantName": "Warung Barokah",
+      "customerId": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customer_id": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customerName": "Elok Faiqoh",
+      "pickupTime": "20:45",
+      "pickup_time": "20:45",
+      "notes": "",
+      "status": "paid",
+      "createdAt": "2026-03-15T03:57:24.060Z",
+      "created_at": "2026-03-15T03:57:24.060Z",
+      "updatedAt": "2026-03-15T03:57:24.088Z"
+    },
+    {
+      "id": "1b3abe25-7255-42e8-aea7-f892938d971b",
+      "code": "BK860653",
+      "order_code": "BK860653",
+      "packageId": null,
+      "package_name": "Tempe Goreng",
+      "packageName": "Tempe Goreng",
+      "items": [],
+      "price": 7000,
+      "total_price": 7000,
+      "restaurantId": "warung-barokah",
+      "restaurant_id": "warung-barokah",
+      "restaurantName": "Warung Barokah",
+      "customerId": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customer_id": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "customerName": "Elok Faiqoh",
+      "pickupTime": "17:45",
+      "pickup_time": "17:45",
+      "notes": "",
+      "status": "paid",
+      "createdAt": "2026-03-15T06:58:41.957Z",
+      "created_at": "2026-03-15T06:58:41.957Z",
+      "updatedAt": "2026-03-15T06:58:41.985Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "u-superadmin",
+      "name": "Super Admin",
+      "email": "admin@bukain.id",
+      "passwordHash": "$2b$10$IgGiKbgsaVYc6G3GIHzlreCj.ker2cSpvIPv3acKP09j1RRVlnxEa",
+      "role": "super_admin"
+    },
+    {
+      "id": "warung-barokah",
+      "name": "Warung Barokah",
+      "email": "warung-barokah@bukain.id",
+      "passwordHash": "$2b$10$4OyJwtuNMdKn9aHFzgqJfeUgMemtNnyGju1zdbC2NaRhWguMZRx3O",
+      "role": "restaurant",
+      "restaurantId": "warung-barokah"
+    },
+    {
+      "id": "ayam-geprek-mantap",
+      "name": "Ayam Geprek Mantap",
+      "email": "ayam-geprek-mantap@bukain.id",
+      "passwordHash": "$2b$10$H3jhDQ.z0oOxUETfOIHgCuFFBMzR.eyrv1GI.MVhqFFlbq3Z2dINu",
+      "role": "restaurant",
+      "restaurantId": "ayam-geprek-mantap"
+    },
+    {
+      "id": "kedai-ramadan",
+      "name": "Kedai Ramadan",
+      "email": "kedai-ramadan@bukain.id",
+      "passwordHash": "$2b$10$EE8UWpwMtQccsp1diONccO6MZeWUbSjPwye.236WxSjAcIezS3XWm",
+      "role": "restaurant",
+      "restaurantId": "kedai-ramadan"
+    },
+    {
+      "id": "sate-madura-cak-hadi",
+      "name": "Sate Madura Cak Hadi",
+      "email": "sate-madura-cak-hadi@bukain.id",
+      "passwordHash": "$2b$10$v/cRii2kIAdFOH7IhVG8Y.dAfhdehC4t9vcxGQf/r8GJqyk0LI.sK",
+      "role": "restaurant",
+      "restaurantId": "sate-madura-cak-hadi"
+    },
+    {
+      "id": "bakso-pak-rudi",
+      "name": "Bakso Pak Rudi",
+      "email": "bakso-pak-rudi@bukain.id",
+      "passwordHash": "$2b$10$D74sQE/2s6mtbqJRlZSuiuj2DWcfD4JkQodzN/5fowBDK/ZUICsIK",
+      "role": "restaurant",
+      "restaurantId": "bakso-pak-rudi"
+    },
+    {
+      "id": "martabak-alim",
+      "name": "Martabak Alim",
+      "email": "martabak-alim@bukain.id",
+      "passwordHash": "$2b$10$kVH2p3uqo/8Yte.kMH1ijuAh7qR24BWpWkyg42OYfmYH2MMfLiGaK",
+      "role": "restaurant",
+      "restaurantId": "martabak-alim"
+    },
+    {
+      "id": "nasi-uduk-bu-siti",
+      "name": "Nasi Uduk Bu Siti",
+      "email": "nasi-uduk-bu-siti@bukain.id",
+      "passwordHash": "$2b$10$wZGmQFnHiBmHfxjcyYBQ1eE9Qu.SoHhIJ4faVwIlyzHI5RK86f.qO",
+      "role": "restaurant",
+      "restaurantId": "nasi-uduk-bu-siti"
+    },
+    {
+      "id": "gacoan-pedas",
+      "name": "Mie Pedas Gacoan",
+      "email": "gacoan-pedas@bukain.id",
+      "passwordHash": "$2b$10$AlqXEYPEj2alMuKXgdzEbuy7e6s6gWVSk22oSXV7NvcCEiv0Ov9N2",
+      "role": "restaurant",
+      "restaurantId": "gacoan-pedas"
+    },
+    {
+      "id": "ayam-bakar-nusantara",
+      "name": "Ayam Bakar Nusantara",
+      "email": "ayam-bakar-nusantara@bukain.id",
+      "passwordHash": "$2b$10$KXIy6ZiYG9UcBtDr15AX6OSET8toOqe.HCabZPILhuoSYwhFTat4K",
+      "role": "restaurant",
+      "restaurantId": "ayam-bakar-nusantara"
+    },
+    {
+      "id": "takjil-berkah",
+      "name": "Takjil Berkah",
+      "email": "takjil-berkah@bukain.id",
+      "passwordHash": "$2b$10$idquzKvo0ZWJvBcdN7QAuejfl2C3ykHhl8VnjDFILTJd4TH5n7za6",
+      "role": "restaurant",
+      "restaurantId": "takjil-berkah"
+    },
+    {
+      "id": "u-customer",
+      "name": "Customer User",
+      "email": "customer@bukain.id",
+      "passwordHash": "$2b$10$VaKAe/O18pPkOaw79bt75.69kzF2CAwB6GFgC00ZAxjVkPE93AyWq",
+      "role": "customer"
+    },
+    {
+      "id": "d32b1ffa-d378-4ada-aa9d-193a3dcda6ec",
+      "name": "Elok Faiqoh",
+      "email": "eloks@gmail.com",
+      "passwordHash": "$2b$10$51L8sThNG/KnuMLSg/cm5eJMeBYzbHgK.hweXs3DSC7TfSujvYqxC",
+      "role": "customer",
+      "restaurantId": null
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "warung-barokah",
+      "name": "Warung Barokah",
+      "location": "Surabaya",
+      "whatsapp": "+6281234567890",
+      "menu": [
+        {
+          "id": "nasi-ayam-bakar",
+          "name": "Nasi Ayam Bakar",
+          "price": 18000
+        },
+        {
+          "id": "nasi-ayam-penyet",
+          "name": "Nasi Ayam Penyet",
+          "price": 19000
+        },
+        {
+          "id": "nasi-tempe-penyet",
+          "name": "Nasi Tempe Penyet",
+          "price": 15000
+        },
+        {
+          "id": "tahu-isi",
+          "name": "Tahu Isi",
+          "price": 8000
+        },
+        {
+          "id": "tempe-goreng",
+          "name": "Tempe Goreng",
+          "price": 7000
+        },
+        {
+          "id": "bakwan",
+          "name": "Bakwan Sayur",
+          "price": 7000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        },
+        {
+          "id": "es-jeruk",
+          "name": "Es Jeruk",
+          "price": 7000
+        },
+        {
+          "id": "teh-hangat",
+          "name": "Teh Hangat",
+          "price": 5000
+        },
+        {
+          "id": "kopi-hitam",
+          "name": "Kopi Hitam",
+          "price": 8000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "ayam-geprek-mantap",
+      "name": "Ayam Geprek Mantap",
+      "location": "Surabaya",
+      "whatsapp": "+6281212345679",
+      "menu": [
+        {
+          "id": "ayam-geprek-original",
+          "name": "Ayam Geprek Original",
+          "price": 22000
+        },
+        {
+          "id": "ayam-geprek-keju",
+          "name": "Ayam Geprek Keju",
+          "price": 25000
+        },
+        {
+          "id": "ayam-geprek-sambal-matah",
+          "name": "Ayam Geprek Sambal Matah",
+          "price": 24000
+        },
+        {
+          "id": "ayam-geprek-bakar",
+          "name": "Ayam Geprek Bakar",
+          "price": 26000
+        },
+        {
+          "id": "nasi-putih",
+          "name": "Nasi Putih",
+          "price": 7000
+        },
+        {
+          "id": "telur-dadar",
+          "name": "Telur Dadar",
+          "price": 9000
+        },
+        {
+          "id": "tahu-goreng",
+          "name": "Tahu Goreng",
+          "price": 7000
+        },
+        {
+          "id": "tempe-goreng",
+          "name": "Tempe Goreng",
+          "price": 7000
+        },
+        {
+          "id": "es-jeruk",
+          "name": "Es Jeruk",
+          "price": 7000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "kedai-ramadan",
+      "name": "Kedai Ramadan",
+      "location": "Surabaya",
+      "whatsapp": "+628123987654",
+      "menu": [
+        {
+          "id": "nasi-goreng",
+          "name": "Nasi Goreng Spesial",
+          "price": 20000
+        },
+        {
+          "id": "nasi-goreng-ayam",
+          "name": "Nasi Goreng Ayam",
+          "price": 22000
+        },
+        {
+          "id": "mie-goreng",
+          "name": "Mie Goreng",
+          "price": 18000
+        },
+        {
+          "id": "mie-kuah",
+          "name": "Mie Kuah",
+          "price": 17000
+        },
+        {
+          "id": "sate-ayam",
+          "name": "Sate Ayam",
+          "price": 22000
+        },
+        {
+          "id": "sate-kulit",
+          "name": "Sate Kulit",
+          "price": 18000
+        },
+        {
+          "id": "kolak-pisang",
+          "name": "Kolak Pisang",
+          "price": 9000
+        },
+        {
+          "id": "es-buah",
+          "name": "Es Buah",
+          "price": 8000
+        },
+        {
+          "id": "es-campur",
+          "name": "Es Campur",
+          "price": 9000
+        },
+        {
+          "id": "air-mineral",
+          "name": "Air Mineral",
+          "price": 5000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "sate-madura-cak-hadi",
+      "name": "Sate Madura Cak Hadi",
+      "location": "Surabaya",
+      "whatsapp": "+628123888111",
+      "menu": [
+        {
+          "id": "sate-ayam-madura",
+          "name": "Sate Ayam Madura",
+          "price": 25000
+        },
+        {
+          "id": "sate-kambing",
+          "name": "Sate Kambing",
+          "price": 32000
+        },
+        {
+          "id": "sate-kulit",
+          "name": "Sate Kulit",
+          "price": 20000
+        },
+        {
+          "id": "lontong",
+          "name": "Lontong",
+          "price": 6000
+        },
+        {
+          "id": "gulai-kambing",
+          "name": "Gulai Kambing",
+          "price": 30000
+        },
+        {
+          "id": "sop-kambing",
+          "name": "Sop Kambing",
+          "price": 30000
+        },
+        {
+          "id": "teh-hangat",
+          "name": "Teh Hangat",
+          "price": 5000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        },
+        {
+          "id": "es-jeruk",
+          "name": "Es Jeruk",
+          "price": 7000
+        },
+        {
+          "id": "jeruk-hangat",
+          "name": "Jeruk Hangat",
+          "price": 7000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "bakso-pak-rudi",
+      "name": "Bakso Pak Rudi",
+      "location": "Surabaya",
+      "whatsapp": "+628123222333",
+      "menu": [
+        {
+          "id": "bakso-urat",
+          "name": "Bakso Urat",
+          "price": 20000
+        },
+        {
+          "id": "bakso-halus",
+          "name": "Bakso Halus",
+          "price": 18000
+        },
+        {
+          "id": "bakso-telur",
+          "name": "Bakso Telur",
+          "price": 22000
+        },
+        {
+          "id": "bakso-mercon",
+          "name": "Bakso Mercon",
+          "price": 23000
+        },
+        {
+          "id": "mie-ayam",
+          "name": "Mie Ayam",
+          "price": 17000
+        },
+        {
+          "id": "mie-ayam-bakso",
+          "name": "Mie Ayam Bakso",
+          "price": 20000
+        },
+        {
+          "id": "pangsit-goreng",
+          "name": "Pangsit Goreng",
+          "price": 9000
+        },
+        {
+          "id": "pangsit-rebus",
+          "name": "Pangsit Rebus",
+          "price": 9000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        },
+        {
+          "id": "es-jeruk",
+          "name": "Es Jeruk",
+          "price": 7000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "martabak-alim",
+      "name": "Martabak Alim",
+      "location": "Surabaya",
+      "whatsapp": "+628129999777",
+      "menu": [
+        {
+          "id": "martabak-telur",
+          "name": "Martabak Telur",
+          "price": 25000
+        },
+        {
+          "id": "martabak-daging",
+          "name": "Martabak Daging",
+          "price": 28000
+        },
+        {
+          "id": "martabak-spesial",
+          "name": "Martabak Spesial",
+          "price": 30000
+        },
+        {
+          "id": "martabak-manis-coklat",
+          "name": "Martabak Manis Coklat",
+          "price": 26000
+        },
+        {
+          "id": "martabak-manis-keju",
+          "name": "Martabak Manis Keju",
+          "price": 27000
+        },
+        {
+          "id": "martabak-manis-kacang",
+          "name": "Martabak Manis Kacang",
+          "price": 26000
+        },
+        {
+          "id": "martabak-manis-nutella",
+          "name": "Martabak Manis Nutella",
+          "price": 32000
+        },
+        {
+          "id": "teh-hangat",
+          "name": "Teh Hangat",
+          "price": 5000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        },
+        {
+          "id": "susu-hangat",
+          "name": "Susu Hangat",
+          "price": 8000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "nasi-uduk-bu-siti",
+      "name": "Nasi Uduk Bu Siti",
+      "location": "Surabaya",
+      "whatsapp": "+628121111222",
+      "menu": [
+        {
+          "id": "nasi-uduk-ayam",
+          "name": "Nasi Uduk Ayam",
+          "price": 20000
+        },
+        {
+          "id": "nasi-uduk-telur",
+          "name": "Nasi Uduk Telur Balado",
+          "price": 19000
+        },
+        {
+          "id": "nasi-uduk-tempe",
+          "name": "Nasi Uduk Tempe Orek",
+          "price": 17000
+        },
+        {
+          "id": "nasi-uduk-komplit",
+          "name": "Nasi Uduk Komplit",
+          "price": 23000
+        },
+        {
+          "id": "telur-balado",
+          "name": "Telur Balado",
+          "price": 9000
+        },
+        {
+          "id": "tempe-orek",
+          "name": "Tempe Orek",
+          "price": 8000
+        },
+        {
+          "id": "bakwan",
+          "name": "Bakwan",
+          "price": 7000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        },
+        {
+          "id": "es-jeruk",
+          "name": "Es Jeruk",
+          "price": 7000
+        },
+        {
+          "id": "air-mineral",
+          "name": "Air Mineral",
+          "price": 5000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "gacoan-pedas",
+      "name": "Mie Pedas Gacoan",
+      "location": "Surabaya",
+      "whatsapp": "+628122222333",
+      "menu": [
+        {
+          "id": "mie-setan",
+          "name": "Mie Setan Level 1-5",
+          "price": 17000
+        },
+        {
+          "id": "mie-iblis",
+          "name": "Mie Iblis",
+          "price": 18000
+        },
+        {
+          "id": "mie-angel",
+          "name": "Mie Angel",
+          "price": 16000
+        },
+        {
+          "id": "udang-keju",
+          "name": "Udang Keju",
+          "price": 15000
+        },
+        {
+          "id": "pangsit-goreng",
+          "name": "Pangsit Goreng",
+          "price": 13000
+        },
+        {
+          "id": "lumpia-udang",
+          "name": "Lumpia Udang",
+          "price": 15000
+        },
+        {
+          "id": "siomay-goreng",
+          "name": "Siomay Goreng",
+          "price": 14000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        },
+        {
+          "id": "es-jeruk",
+          "name": "Es Jeruk",
+          "price": 7000
+        },
+        {
+          "id": "es-lemon-tea",
+          "name": "Es Lemon Tea",
+          "price": 8000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "ayam-bakar-nusantara",
+      "name": "Ayam Bakar Nusantara",
+      "location": "Surabaya",
+      "whatsapp": "+628133333444",
+      "menu": [
+        {
+          "id": "ayam-bakar-madu",
+          "name": "Ayam Bakar Madu",
+          "price": 25000
+        },
+        {
+          "id": "ayam-bakar-taliwang",
+          "name": "Ayam Bakar Taliwang",
+          "price": 26000
+        },
+        {
+          "id": "ayam-bakar-kecap",
+          "name": "Ayam Bakar Kecap",
+          "price": 24000
+        },
+        {
+          "id": "ayam-goreng-kremes",
+          "name": "Ayam Goreng Kremes",
+          "price": 24000
+        },
+        {
+          "id": "nasi-putih",
+          "name": "Nasi Putih",
+          "price": 7000
+        },
+        {
+          "id": "tahu-tempe",
+          "name": "Tahu Tempe",
+          "price": 9000
+        },
+        {
+          "id": "lalapan",
+          "name": "Lalapan",
+          "price": 8000
+        },
+        {
+          "id": "es-teh",
+          "name": "Es Teh",
+          "price": 6000
+        },
+        {
+          "id": "es-jeruk",
+          "name": "Es Jeruk",
+          "price": 7000
+        },
+        {
+          "id": "air-mineral",
+          "name": "Air Mineral",
+          "price": 5000
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "takjil-berkah",
+      "name": "Takjil Berkah",
+      "location": "Surabaya",
+      "whatsapp": "+628144444555",
+      "menu": [
+        {
+          "id": "kolak-pisang",
+          "name": "Kolak Pisang",
+          "price": 9000
+        },
+        {
+          "id": "es-buah",
+          "name": "Es Buah",
+          "price": 8000
+        },
+        {
+          "id": "es-campur",
+          "name": "Es Campur",
+          "price": 9000
+        },
+        {
+          "id": "es-dawet",
+          "name": "Es Dawet",
+          "price": 8000
+        },
+        {
+          "id": "es-kelapa",
+          "name": "Es Kelapa Muda",
+          "price": 10000
+        },
+        {
+          "id": "gorengan-mix",
+          "name": "Paket Gorengan",
+          "price": 12000
+        },
+        {
+          "id": "bakwan",
+          "name": "Bakwan",
+          "price": 7000
+        },
+        {
+          "id": "risol",
+          "name": "Risol Mayo",
+          "price": 8000
+        },
+        {
+          "id": "lumpia",
+          "name": "Lumpia Sayur",
+          "price": 8000
+        },
+        {
+          "id": "kurma",
+          "name": "Kurma Ajwa (3 pcs)",
+          "price": 12000
+        }
+      ],
+      "active": true
+    }
+  ]
+}
