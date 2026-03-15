@@ -4,6 +4,8 @@ dist/
 build/
 
 # Environment variables
-.env
-.env.production
+server/.env
+server/.env.example
+frontend/.env.production
+.gitignore
 .env.local
